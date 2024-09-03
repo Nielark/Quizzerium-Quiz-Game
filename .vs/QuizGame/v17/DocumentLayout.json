@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\quizgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|solutionrelative:quizgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|c:\\users\\mark daniel\\source\\repos\\quizgame\\quizgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|solutionrelative:quizgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|c:\\users\\mark daniel\\source\\repos\\quizgame\\quizgame\\mymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|solutionrelative:quizgame\\mymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|c:\\users\\mark daniel\\source\\repos\\quizgame\\quizgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|solutionrelative:quizgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|c:\\users\\mark daniel\\source\\repos\\quizgame\\quizgame\\customprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22EFD30-32AC-4FF4-8CBE-51ABBC79F44E}|QuizGame\\QuizGame.csproj|solutionrelative:quizgame\\customprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomProgressBar.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\CustomProgressBar.cs",
+              "RelativeDocumentMoniker": "QuizGame\\CustomProgressBar.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\CustomProgressBar.cs",
+              "RelativeToolTip": "QuizGame\\CustomProgressBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:18:43.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QuizGame\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\Form1.Designer.cs",
+              "RelativeToolTip": "QuizGame\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T10:08:53.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyModule.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\MyModule.cs",
+              "RelativeDocumentMoniker": "QuizGame\\MyModule.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\MyModule.cs",
+              "RelativeToolTip": "QuizGame\\MyModule.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:00:58.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\Form1.cs",
+              "RelativeDocumentMoniker": "QuizGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\Form1.cs [Design]",
+              "RelativeToolTip": "QuizGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:39:52.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\Form1.cs",
+              "RelativeDocumentMoniker": "QuizGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\QuizGame\\QuizGame\\Form1.cs",
+              "RelativeToolTip": "QuizGame\\Form1.cs",
+              "ViewState": "AgIAAKYBAAAAAAAAAAAuwK8BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:00:10.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

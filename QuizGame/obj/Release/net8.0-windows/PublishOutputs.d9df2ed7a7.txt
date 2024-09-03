@@ -1,0 +1,5 @@
+C:\Users\Mark Daniel\Downloads\QuizGame.exe
+C:\Users\Mark Daniel\Downloads\QuizGame.dll
+C:\Users\Mark Daniel\Downloads\QuizGame.deps.json
+C:\Users\Mark Daniel\Downloads\QuizGame.runtimeconfig.json
+C:\Users\Mark Daniel\Downloads\QuizGame.pdb
